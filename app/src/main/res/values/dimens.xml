@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="imageSize">80dp</dimen>
+    <dimen name="followTextSize">22sp</dimen>
+    <dimen name="imSize">50dp</dimen>
+    <dimen name="imTwoSize">60dp</dimen>
+    <dimen name="txtSize">15sp</dimen>
+    <dimen name="flag_size">55dp</dimen>
+</resources>

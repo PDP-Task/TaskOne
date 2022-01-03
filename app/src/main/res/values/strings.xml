@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LayoutsKotlin</string>
+    <string name="tottenham_hotspur">Tottenham Hotspur</string>
+    <string name="footbal_club">Football Club</string>
+    <string name="_305">61</string>
+    <string name="_172">172</string>
+    <string name="_24k">24ml</string>
+    <string name="title">Titles</string>
+    <string name="folow">Followers</string>
+    <string name="following">Following</string>
+    <string name="kane">Kane</string>
+    <string name="son">Son</string>
+    <string name="Lloris">Lloris</string>
+    <string name="dele">Dele</string>
+    <string name="footballers">Footballers</string>
+    <string name="favorite_clubs">Favorite Clubs</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="live">Liverpool</string>
+    <string name="bike">Bike</string>
+    <string name="football">Football</string>
+    <string name="basketball">Basketball</string>
+</resources>
